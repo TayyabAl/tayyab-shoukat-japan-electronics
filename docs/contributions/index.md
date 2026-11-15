@@ -49,7 +49,8 @@ No figure on this page is published until the owner confirms it is accurate and 
 - Marketing budget, expense and campaign performance analysis.
 - Meta Ads awareness, performance and ROAS reporting.
 - Shopify and online team reporting.
-- Shopify order management and catalogue operations (product count: *Pending documentary verification*); a product listing tool and a website sales-funnel dashboard.
+- Development and management of a product website and catalogue featuring 3,000+ products. (*Pending documentary verification*)
+- A product listing tool and a website sales-funnel dashboard.
 
 ### 7. Incentives & after-sales — *Pending documentary verification*
 - Incentive and commission structures, and incentive and commission analysis.
@@ -59,6 +60,7 @@ No figure on this page is published until the owner confirms it is accurate and 
 ### 8. Leads & opportunities — *Pending documentary verification*
 - Leads and opportunities heatmaps.
 - Lead source → sales rep → branch tracking and customer call analysis.
+- TA Leads: a combined tool covering recruitment tracking, team leads tracking and online sales leads tracking.
 
 ### 9. Audit & data quality — *Pending documentary verification*
 - Sales reconciliation with missing-data, backdated-entry and risk checks.

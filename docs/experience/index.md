@@ -38,11 +38,15 @@ During this period I worked in business intelligence and strategic planning. My 
 
 My work covered management reporting, KPI and MIS dashboards, target-setting frameworks, branch, inventory and marketing analysis, incentive reporting, and reporting automation. The full list is on the [professional contributions](../contributions/) page, where every item is marked Pending documentary verification.
 
+I also built TA Leads, a combined tool covering recruitment tracking, team leads tracking and online sales leads tracking.
+
 ### 3. PIP / warning documentation — *My recollection; disputed*
 
 I was presented with a PIP / warning document. I refused to sign it.
 
-My recollection is that the date initially stated in connection with it was the 26th, and that approximately one month later HR / management referred to the 25th. I raised this date discrepancy. I do not state an exact document date, and this account has not been checked against any document.
+My recollection is that it was presented to me while I was giving a presentation of my regular Business Intelligence work and of TA Leads, the additional tool described in section 2. At that time, the Head of Department, Online Team, was appreciating the tool. I record these as the circumstances in which the document was presented to me; I do not state that the presentation and the PIP / warning were connected.
+
+My recollection is that the date initially stated in connection with it was the 26th, and that approximately one month later HR / GM referred to the 25th. I raised this date discrepancy. I do not state an exact document date, and this account has not been checked against any document.
 
 ### 4. Separation — *My recollection; disputed*
 
@@ -83,7 +87,7 @@ Each item below is my recollection. None has been independently verified, and th
 3. **Being escorted.** My account is that I was physically escorted and that my hand was held. `[Role, date and whether this was part of the gate incident to verify]`
 4. **Laptop.** My account is that the laptop was taken from my hand. `[Role and date to verify]`
 5. **Remark in front of junior and senior colleagues.** My recollection is that I was humiliated in front of junior and senior colleagues and that the remark "Go to Karachi" ("Karachi chalay jao") was made. `[Role and date to verify]`
-6. **Remark by the Head of Department.** My recollection is that the Head of Department said, "He has been let go" ("Is ko nikal diya"). `[Date to verify]`
+6. **Remark by the Head of Department.** My recollection is that the Head of Department said, "He has been let go" ("Is ko nikal diya"). This is a different person from the Head of Department, Online Team, mentioned in section 3. `[Date to verify]`
 7. **Later remark by HR.** My recollection is that HR later said, "You should look" ("Aap ko dekhna chahiye"). `[Date and context to verify]`
 
 These experiences caused me emotional distress.

@@ -13,6 +13,12 @@ Japan Electronics and any person referred to on this site are invited to respond
 - Factual corrections supported by evidence will be made and logged in the changelog.
 - Responses will be checked for authenticity and personal or confidential information before publication. No private correspondence or personal information will be published without appropriate authorization.
 
+## How to respond
+
+Responses can be submitted as an Issue on this site's GitHub repository: [submit a response](https://github.com/TayyabAl/tayyab-shoukat-japan-electronics/issues/new?title=Right%20of%20reply). A free GitHub account is needed.
+
+**Please note: GitHub Issues are public.** Anything submitted there, including the response itself and the name of the account that submits it, can be read by anyone. Do not include personal or confidential information in a submission.
+
 ## Responses received
 None yet.
 

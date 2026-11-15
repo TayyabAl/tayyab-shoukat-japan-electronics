@@ -81,7 +81,7 @@ Statements about other people or the company are **my account and my opinion**, 
 
 ## Right of reply
 
-Japan Electronics and any person named or referred to are invited to respond. Responses received will be placed in [`docs/company-response.md`](docs/company-response.md): in full only with the responder's permission; otherwise as a fair and accurate summary that does not expose private or confidential information. Factual corrections supported by evidence will be made and recorded in the changelog.
+Japan Electronics and any person named or referred to are invited to respond. Responses received will be placed in [`docs/company-response.md`](docs/company-response.md): in full only with the responder's permission; otherwise as a fair and accurate summary that does not expose private or confidential information. Factual corrections supported by evidence will be made and recorded in the changelog. Responses can be submitted through this repository's [Issues](https://github.com/TayyabAl/tayyab-shoukat-japan-electronics/issues/new?title=Right%20of%20reply) page. Issues and any responses submitted there are public; see the right-of-reply page for details.
 
 ---
 
