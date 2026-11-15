@@ -20,6 +20,7 @@ This section is my personal account of my employment at Japan Electronics from 1
 People are referred to by role, not by name. Private correspondence is summarised, not reproduced.
 
 ## Timeline
+
 | Date | Event | Label |
 | --- | --- | --- |
 | 11 May 2026 | I rejoined Japan Electronics | My recollection; awaiting documentary verification |
