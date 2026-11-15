@@ -1,0 +1,34 @@
+title: "Tayyab Shoukat – Japan Electronics Record"
+description: "Professional contributions and first-person employee experience, 11 May – 24 October 2026. Prepared and owned by Tayyab Shoukat."
+author: Tayyab Shoukat
+lang: en
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Every page uses the site layout (docs/_layouts/default.html).
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+# Draft: ask search engines not to index. Set to false only when publication is approved.
+noindex: true
+
+# LinkedIn link stays inactive until the owner confirms the URL.
+# Proposed value (unconfirmed): https://www.linkedin.com/in/tayyabshoukat1/
+linkedin_url: ""
+linkedin_url_confirmed: false
+
+nav:
+  - title: Home
+    url: /
+  - title: Professional Contributions
+    url: /contributions/
+  - title: Employee Experience
+    url: /experience/
+  - title: Company's Right of Reply
+    url: /company-response.html
+  - title: Editorial & Privacy Policy
+    url: /methodology.html

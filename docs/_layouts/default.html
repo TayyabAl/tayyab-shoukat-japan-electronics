@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'en' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  {% if site.noindex %}<meta name="robots" content="noindex">{% endif %}
+  {% seo %}
+  <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
+</head>
+{%- assign is_home = false -%}{%- if page.url == '/' -%}{%- assign is_home = true -%}{%- endif -%}
+<body{% if is_home %} class="home"{% endif %}>
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="bar">
+      <a class="brand" href="{{ '/' | relative_url }}">Tayyab Shoukat<small>Japan Electronics record, 11 May – 24 October 2026</small></a>
+      <button class="menu-btn" type="button" aria-expanded="false" aria-controls="site-nav">Menu</button>
+      <nav id="site-nav" class="nav" aria-label="Main">
+        <ul>
+          {%- for item in site.nav %}
+          <li><a href="{{ item.url | relative_url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title }}</a></li>
+          {%- endfor %}
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <div class="page">
+    {%- unless is_home %}
+    <aside class="margin-note" aria-label="On this page"><strong>On this page</strong></aside>
+    {%- endunless %}
+    <main id="main" class="content">
+      {{ content }}
+      {%- if is_home %}
+      <a id="story-feature" class="story-feature" href="{{ '/story/' | relative_url }}">
+        <span class="sf-title">The Story Behind the Backbone</span>
+        <span class="sf-sub">The Man Behind the Insights: A Story of Loyalty, Intelligence, Leadership and an Unfinished Journey</span>
+      </a>
+      <div id="li-home" class="proposed" data-note="Proposed: URL awaiting owner confirmation">
+        <p class="li-row">{% if site.linkedin_url_confirmed and site.linkedin_url != "" %}<a class="li-link" href="{{ site.linkedin_url }}" rel="me noopener noreferrer" target="_blank">LinkedIn — Tayyab Shoukat<span class="sr"> (opens in a new tab)</span></a>{% else %}<span class="li-pending">LinkedIn — Tayyab Shoukat</span>{% endif %}</p>
+      </div>
+      {%- endif %}
+    </main>
+  </div>
+
+  <footer class="site-footer">
+    <div class="bar">
+      <span>Prepared and owned by Tayyab Shoukat. © 2026. All rights reserved.</span>
+      <a href="{{ '/company-response.html' | relative_url }}">Company's right of reply</a>
+      <a href="{{ '/methodology.html' | relative_url }}">Editorial &amp; privacy policy</a>
+      <span class="proposed inline" data-note="Proposed: URL awaiting confirmation">{% if site.linkedin_url_confirmed and site.linkedin_url != "" %}<a class="li-link" href="{{ site.linkedin_url }}" rel="me noopener noreferrer" target="_blank">LinkedIn — Tayyab Shoukat<span class="sr"> (opens in a new tab)</span></a>{% else %}<span class="li-pending">LinkedIn — Tayyab Shoukat</span>{% endif %}</span>
+    </div>
+  </footer>
+  <script src="{{ '/assets/js/labels.js' | relative_url }}"></script>
+</body>
+</html>
