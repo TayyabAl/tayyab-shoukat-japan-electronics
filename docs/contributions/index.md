@@ -4,7 +4,7 @@ title: Professional Contributions
 
 # Professional Contributions
 
-> **Status: DRAFT — not published.** Every item and figure on this page is **Pending documentary verification** until the owner confirms it.
+> Every item and figure on this page is **Pending documentary verification** until the owner confirms it.
 
 **Japan Electronics, Islamabad · 11 May 2026 – 24 October 2026**
 

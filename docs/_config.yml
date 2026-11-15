@@ -13,8 +13,8 @@ defaults:
     values:
       layout: default
 
-# Draft: ask search engines not to index. Set to false only when publication is approved.
-noindex: true
+# Search engines may index the site.
+noindex: false
 
 # LinkedIn link stays inactive until the owner confirms the URL.
 # Proposed value (unconfirmed): https://www.linkedin.com/in/tayyabshoukat1/

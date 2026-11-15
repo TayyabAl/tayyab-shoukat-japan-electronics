@@ -2,8 +2,6 @@
 title: Editorial & Privacy Policy
 ---
 
-> **Status: DRAFT — not published.**
-
 # Editorial & Privacy Policy
 
 This policy applies to every page in this repository and on its website.

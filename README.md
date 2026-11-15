@@ -1,7 +1,5 @@
 # Tayyab Shoukat – Japan Electronics: Professional Contributions & Employee Experience
 
-> **Status: DRAFT — not published.** Nothing in this repository is public until approved by the owner.
-
 Prepared and owned by **Tayyab Shoukat**.
 
 This repository is a first-person, evidence-based record of my work at **Japan Electronics** (Islamabad, Pakistan) from **11 May 2026 to 24 October 2026**. It has two parts:

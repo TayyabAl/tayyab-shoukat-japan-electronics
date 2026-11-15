@@ -4,7 +4,7 @@ title: Employee Experience
 
 # Employee Experience — First-Person Account
 
-> **Status: DRAFT — not published.** This is my first-person account. Nothing here is a finding by any court, tribunal or regulator.
+> This is my first-person account. Nothing here is a finding by any court, tribunal or regulator.
 
 This section is my personal account of my employment at Japan Electronics from 11 May to 24 October 2026. It reflects my perspective. The company's position differs on some points, and it is invited to respond on the [right of reply](../company-response) page.
 

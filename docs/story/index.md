@@ -7,7 +7,7 @@ description: "Tayyab Shoukat's first-person story of his Business Intelligence, 
 
 *The Man Behind the Insights: A Story of Loyalty, Intelligence, Leadership and an Unfinished Journey*
 
-> **Status: DRAFT — not published.** This is my personal, first-person story. Unless a section is labelled otherwise, it is my own recollection and has not been independently verified. My labelled record is on the [employee experience](../experience/) page, my work is listed on the [professional contributions](../contributions/) page, and the company may respond on the [right of reply](../company-response) page.
+> This is my personal, first-person story. Unless a section is labelled otherwise, it is my own recollection and has not been independently verified. My labelled record is on the [employee experience](../experience/) page, my work is listed on the [professional contributions](../contributions/) page, and the company may respond on the [right of reply](../company-response) page.
 
 *Written on 15 November 2026, at 1:22 a.m., from my newly rented home in Islamabad.*
 

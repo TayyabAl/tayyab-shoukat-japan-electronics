@@ -2,8 +2,6 @@
 title: Home
 ---
 
-> **Status: DRAFT — not published.**
-
 # Tayyab Shoukat – Japan Electronics
 
 **Professional Contributions & Employee Experience · 11 May – 24 October 2026**
